@@ -33,7 +33,7 @@ var questions = [One = {
                   answer: 'a'
                 },
                  Four = {
-                   question: "04. What was your favorite subject in school?\n \t a. Science \n \t b. History \n \t c. Maths \n \t",
+                   question: "04. What was his favorite subject in school?\n \t a. Science \n \t b. History \n \t c. Maths \n \t",
                    answer: 'c'
                  },
                  Five = {
@@ -41,11 +41,11 @@ var questions = [One = {
                    answer: 'b'
                  },
                  Six = {
-                   question: "06. What is my birth month?\n",
+                   question: "06. What is nabeel's birth month?\n",
                    answer: "october"
                  },
                  Seven = {
-                   question: "07. What is my birth date?\n",
+                   question: "07. What is nabeel's birth date?\n",
                    answer: '10'
                  }
                 ]
